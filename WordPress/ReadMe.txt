@@ -1,7 +1,8 @@
-#### This script can run in PASSIVE , MIXED or AGGRESSIVE modes and outputs the scan results to a file (/tmp/wpscan-batch-results.txt).
-#### Usage: ./wpscan-bold.sh passive
-#### Usage: ./wpscan-bold.sh mixed
-#### Usage: ./wpscan-bold.sh aggressive
+# This script is for ethical use only. Please use it for finding complete set of vulnerbilities in a WordPress based portal.
+# This script can run in PASSIVE , MIXED or AGGRESSIVE modes and outputs the scan results to a file (/tmp/wpscan-batch-results.txt).
+# Usage: ./wpscan-bold.sh passive
+# Usage: ./wpscan-bold.sh mixed
+# Usage: ./wpscan-bold.sh aggressive
 
 1. Install wpscan
 
