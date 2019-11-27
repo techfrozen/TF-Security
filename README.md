@@ -1,2 +1,2 @@
 # TF-Security
-This repo will be used for security scripts (bash, python, powershell)
+This repo contains multiple tools/utility/scripts related to security.
